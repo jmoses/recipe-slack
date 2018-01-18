@@ -1,8 +1,8 @@
 {
-  "id": "slack",
+  "id": "slack-dev",
   "name": "franz-recipe-slack",
   "version": "1.0.6",
-  "description": "Slack",
+  "description": "Slack Dev",
   "main": "index.js",
   "author": "Stefan Malzner <stefan@adlk.io>",
   "license": "MIT",
